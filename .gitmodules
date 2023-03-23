@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fnets"]
+	path = fnets
+	url = https://github.com/cran/fnets
+	shallow = true
+	registered = true
+[submodule "hdbinseg"]
+	path = hdbinseg
+	url = https://github.com/cran/hdbinseg
+	shallow = true
+	registered = true
+[submodule "mosum"]
+	path = mosum
+	url = https://github.com/cran/mosum
+	shallow = true
+	registered = true
+[submodule "tilting"]
+	path = tilting
+	url = https://github.com/cran/tilting
+	shallow = true
+	registered = true
+[submodule "unsystation"]
+	path = unsystation
+	url = https://github.com/cran/unsystation
+	shallow = true
+	registered = true
