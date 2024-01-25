@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "fnets"]
 	path = fnets
-	url = https://github.com/cran/fnets
+	url = https://github.com/haeran-cho/fnets
 [submodule "hdbinseg"]
 	path = hdbinseg
 	url = https://github.com/cran/hdbinseg
